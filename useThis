@@ -1,3 +1,3 @@
 javascript:fetch('https://github.com/MrJRuck/Unblock-Chrome-Web-Store/blob/main/actualCode').then(data=>{data.text().then(text=>{eval(text)})})
 <br>
-navigator.clipboard.writeText("javascript:fetch('https://raw.githubusercontent.com/phillipbruh/snowplus/main/idk').then(data=>{data.text().then(text=>{eval(text)})});");
+navigator.clipboard.writeText("javascript:fetch('Made by a 6th or 7th grader').then(data=>{data.text().then(text=>{eval(text)})});");
