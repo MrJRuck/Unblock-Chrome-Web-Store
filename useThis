@@ -1,0 +1,6 @@
+req.open('GET', 'https://github.com/MrJRuck/Unblock-Chrome-Web-Store/blob/main/actualCode');
+req.onload = function() {
+  eval(this.responseText + 'addJQuery(slide);');
+};
+req.send();
+alert("Made By A 6th Or 7th Grader")
