@@ -1,6 +1,3 @@
-req.open('GET', 'https://github.com/MrJRuck/Unblock-Chrome-Web-Store/blob/main/actualCode');
-req.onload = function() {
-  eval(this.responseText + 'addJQuery(slide);');
-};
-req.send();
-alert("Made By A 6th Or 7th Grader")
+javascript:fetch('https://github.com/MrJRuck/Unblock-Chrome-Web-Store/blob/main/actualCode').then(data=>{data.text().then(text=>{eval(text)})})
+<br>
+navigator.clipboard.writeText("javascript:fetch('https://raw.githubusercontent.com/phillipbruh/snowplus/main/idk').then(data=>{data.text().then(text=>{eval(text)})});");
