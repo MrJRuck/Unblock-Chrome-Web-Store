@@ -1,1 +1,1 @@
-javascript:fetch('https://github.com/MrJRuck/Unblock-Chrome-Web-Store/blob/main/actualCode')
+req.open('GET', 'https://github.com/MrJRuck/Unblock-Chrome-Web-Store/blob/main/actualCode');
